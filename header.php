@@ -34,7 +34,7 @@
 					<div class="header__main--left">
 						<div class="logo">
 							<a href="<?php echo esc_url(home_url()); ?>" title="<?php bloginfo('name'); ?>">
-								<!-- <img src="<?php echo esc_url(get_stylesheet_directory_uri().'/img/logo.png'); ?>" /> -->
+								<img src="<?php echo esc_url(get_stylesheet_directory_uri().'/img/logo.png'); ?>" />
 							</a>
 						</div>
 					</div>
@@ -51,8 +51,8 @@
 						</ul>
 
 						<ul class="buttons">
-							<a href="#" class="button outline">Login <i class="fa fa-arrow-right"></i></a>
-							<a href="#" class="button white">Register <i class="fa fa-arrow-right"></i></a>
+							<a href="#" class="button outline">Become a Member <i class="fa fa-arrow-right"></i></a>
+							<a href="#" class="button white">Contact Us <i class="fa fa-arrow-right"></i></a>
 						</ul>
 					</div>
 				</div><!-- max__width -->

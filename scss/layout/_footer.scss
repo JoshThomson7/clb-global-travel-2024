@@ -257,7 +257,7 @@ footer {
 			}
 
 			h5 {
-				font-size: var(--fl1-font-sm);
+				font-size: 22px;
 				color: var(--fl1-white);
 				padding-bottom: 16px;
 				display: flex;
@@ -328,7 +328,7 @@ footer {
 						display: flex;
 						align-items: center;
 						&:hover {
-							color: var(--fl1-primary);
+							color: var(--fl1-tertiary);
 							opacity: 1;
 						}
 
@@ -378,7 +378,7 @@ footer {
 }
 
 .subfooter {
-	background: var(--fl1-primary);
+	background: var(--fl1-secondary); display: none;
 
 	.max__width {
 		display: flex;

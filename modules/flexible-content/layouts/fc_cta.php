@@ -37,7 +37,9 @@ $cta_button_label_2 = get_sub_field('cta_button_label_2');
         <?php if($full_width): ?><div class="max__width"><?php endif; ?>
         <article>
             <h2><?php the_sub_field('cta_heading'); echo $padding; ?></h2>
-            <p><?php the_sub_field('cta_caption'); ?></p>
+            <?php if(get_sub_field('cta_caption')): ?>
+                <p><?php the_sub_field('cta_caption'); ?></p>
+            <?php endif; ?>
         </article>
 		
 		<div class="cta__buttons">

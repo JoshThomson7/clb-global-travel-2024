@@ -16,13 +16,13 @@
 				margin: 16px;
 				width: 100%;
 				background: #fff;
-				border-radius: var(--fl1-radius-xxl);
+				border-radius: 0;
 				box-shadow: 0 6px 20px rgb(0 0 0 / 10%);
 				position: relative;
 			}
 
 			figure {
-				border-radius: var(--fl1-radius-xxl) var(--fl1-radius-xxl) 0 0;
+				border-radius: 0;
 				background-size: cover;
 				background-repeat: no-repeat;
 				background-position: center;
@@ -47,7 +47,6 @@
 				h5 {
 					font-size: 16px;
 					color: var(--fl1-secondary);
-					font-weight: 500;
 					line-height: normal;
 					letter-spacing: 0.5px;
 				}
@@ -55,7 +54,6 @@
 				h3 {
 					font-size: 26px;
 					color: var(--fl1-text);
-					font-weight: 700;
 				}
 
 				p {

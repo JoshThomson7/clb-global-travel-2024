@@ -83,7 +83,7 @@ section.avb {
 				.max__width{display: flex; justify-content: space-between;}
 
 				.avb-banner__caption-wrap {
-					width: 47%;
+					width: auto;
 
 					figure {
 						margin-bottom: 20px;
@@ -118,10 +118,12 @@ section.avb {
 
 				h1,
 				h2 {
-					font-size: 50px;
+					font-size: 70px;
 					color: #fff;
-					padding: 0 0 10px;
+					padding: 10px 20px;
+					// padding: 0 0 10px;
 					line-height: 1.4;
+					background: rgba(0,0,0,0.6);
 					@include breakpoint(papabear) {
 						font-size: 2.75rem;
 					}
@@ -136,7 +138,9 @@ section.avb {
 				}
 
 				h3 {
-					font-size: 20px;
+					font-size: 30px;
+					padding: 10px 20px;
+					background: rgba(0,0,0,0.6);
 					font-family: var(--fl1-secondary-font);
 					color: var(--fl1-white);
 					line-height: 1.4;

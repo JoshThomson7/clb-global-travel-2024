@@ -3,6 +3,14 @@
 @import "../fonts/light";
 
 @font-face {
+    font-family: 'Runalto';
+    src: url('fonts/runalto/runalto.woff2') format('woff2'),
+        url('fonts/runalto/runalto.woff') format('woff');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'X1';
     src: url('fonts/x1/X1-Semibold.woff2') format('woff2'),
         url('fonts/x1/X1-Semibold.woff') format('woff');

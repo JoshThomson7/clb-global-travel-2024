@@ -33,7 +33,7 @@
 		}
 
 		article {
-			width: 460px;
+			width: 70%;
 			position: relative;
 			display: flex;
 			flex-direction: column;
@@ -46,8 +46,7 @@
 			}
 
 			h2 {
-				font-size: var(--fl1-font-xxl); 
-				font-weight: 700;
+				font-size: 40px; 
 				color: #fff;
 				line-height: 1.2;
 			}
