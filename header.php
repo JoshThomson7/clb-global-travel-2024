@@ -52,8 +52,8 @@
 						</ul>
 
 						<ul class="buttons">
-							<a href="#" class="button outline">Become a Member <i class="fa fa-arrow-right"></i></a>
-							<a href="#" class="button white">Contact Us <i class="fa fa-arrow-right"></i></a>
+							<a href="mailto:info@clb-global-travel.com?subject=Become%20A%20Member" target="_blank" class="button outline">Become a Member <i class="fa fa-arrow-right"></i></a>
+							<a href="mailto:info@clb-global-travel.com?subject=Contact%20CLB%20Global%20Travel" target="_blank" class="button white">Contact Us <i class="fa fa-arrow-right"></i></a>
 						</ul>
 					</div>
 				</div><!-- max__width -->

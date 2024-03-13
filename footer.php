@@ -24,7 +24,7 @@
 		<div class="max__width">
 
 		<div class="subfooter--left">
-			<small>&copy; <?php bloginfo('name') ?> <?php echo date('Y'); ?>. Registered with number: 10246071</small>
+			<small>&copy; <?php bloginfo('name') ?> <?php echo date('Y'); ?>. Company number: 15534975</small>
 		</div><!-- subfooter--left -->
 
 		<div class="subfooter--right">
