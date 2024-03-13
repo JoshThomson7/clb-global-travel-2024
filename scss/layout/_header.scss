@@ -54,13 +54,16 @@ header.header {
             }
 
             .logo {
-                width: 150px;
+                // width: 150px;
                 transition: all 0.4s ease;
                 margin-right: var(--fl1-spacing-xs);
 
-				svg {
-					fill: var(--fl1-white);
-				}
+				a{
+                    h2{
+                        color: var(--fl1-white);
+                        font-size: 30px;
+                    }
+                }
             }
         }
 
