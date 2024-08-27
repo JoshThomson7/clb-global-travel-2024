@@ -43,18 +43,18 @@
 					<div class="header__main--right">
 						<?php include get_stylesheet_directory().'/modules/mega-menu.php'; ?>
 
-						<ul class="actions"> 
+						<ul class="buttons">
+							<!-- <a href="mailto:info@clb-global-travel.com?subject=Become%20A%20Member" target="_blank" class="button outline">Become a Member <i class="fa fa-arrow-right"></i></a> -->
+							<a href="mailto:info@clb-global-travel.com?subject=Contact%20CLB%20Global%20Travel" target="_blank" class="button white">Contact Us <i class="fa fa-arrow-right"></i></a>
+						</ul>
+
+						<!-- <ul class="actions"> 
 							<li class="burger-menu">
 								<a href="#nav_mobile">
 									<i class="fal fa-bars"></i>
 								</a>
 							</li>
-						</ul>
-
-						<ul class="buttons">
-							<a href="mailto:info@clb-global-travel.com?subject=Become%20A%20Member" target="_blank" class="button outline">Become a Member <i class="fa fa-arrow-right"></i></a>
-							<a href="mailto:info@clb-global-travel.com?subject=Contact%20CLB%20Global%20Travel" target="_blank" class="button white">Contact Us <i class="fa fa-arrow-right"></i></a>
-						</ul>
+						</ul> -->
 					</div>
 				</div><!-- max__width -->
 			</div><!-- header__main -->

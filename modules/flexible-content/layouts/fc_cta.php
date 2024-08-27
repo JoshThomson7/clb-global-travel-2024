@@ -56,7 +56,7 @@ $cta_button_label_2 = get_sub_field('cta_button_label_2');
 			?>
 		</div>
 
-        <div class="cta__overlay" style="background: rgba(19, 118, 158, <?php the_sub_field('cta_overlay_opacity'); ?>);"></div>
+        <div class="cta__overlay" style="background: rgba(239, 203, 104, <?php the_sub_field('cta_overlay_opacity'); ?>);"></div>
         <div class="cta__image<?php echo $parallax; ?>"<?php echo $bk_img; ?>></div>
         <?php if($full_width): ?></div><?php endif; ?>
     </div><!-- cta__wrapper -->

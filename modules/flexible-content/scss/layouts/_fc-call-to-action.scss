@@ -45,14 +45,14 @@
 				width: 100%;
 			}
 
-			h2 {
+			h2 { 
 				font-size: 40px; 
-				color: #fff;
+				color: var(--fl1-primary);
 				line-height: 1.2;
 			}
 			p {
 				font-size: var(--fl1-font-md);
-				color: #fff;
+				color: var(--fl1-primary);
 				line-height: 1.3;
 			}
 		}

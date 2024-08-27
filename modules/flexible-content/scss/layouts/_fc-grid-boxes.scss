@@ -15,7 +15,7 @@
 			.padder {
 				margin: 16px;
 				width: 100%;
-				background: #fff;
+				background: var(--fl1-primary);
 				border-radius: 0;
 				box-shadow: 0 6px 20px rgb(0 0 0 / 10%);
 				position: relative;
@@ -42,7 +42,8 @@
 				flex-direction: column;
 				justify-content: flex-end;
 				gap: var(--fl1-spacing-sm);
-				padding: var(--fl1-spacing-md) var(--fl1-spacing-lg) var(--fl1-spacing-xl);
+				padding: var(--fl1-spacing-md) var(--fl1-spacing-lg) var(--fl1-spacing-md);
+				background: var(--fl1-primary);
 
 				h5 {
 					font-size: 16px;
@@ -53,7 +54,7 @@
 
 				h3 {
 					font-size: 26px;
-					color: var(--fl1-text);
+					color: var(--fl1-white);
 				}
 
 				p {

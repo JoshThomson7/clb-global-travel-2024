@@ -16,6 +16,10 @@
 				</article>
 
 			<?php endwhile; ?>
+
+				<article>
+					<img src="http://clb-global-travel.com/wp-content/uploads/2024/06/CLB-Global-Travel_X5016_tta-white.png" alt="TTA Logo">
+				</article>
 		</div>
 	</div>
 </footer>

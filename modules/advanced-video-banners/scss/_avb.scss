@@ -50,8 +50,7 @@ section.avb {
 			overflow: hidden;
 
 			@include breakpoint(papabear) {
-				// height: auto;
-				// min-height: 200px;
+				height: auto;
 			}
 
 			@for $i from 25 through 100 {
@@ -85,6 +84,11 @@ section.avb {
 				.avb-banner__caption-wrap {
 					width: auto;
 
+					// @include breakpoint(cousinbear) {
+					// 	width: 100%;
+					// 	margin-bottom: 5px;
+					// }
+
 					figure {
 						margin-bottom: 20px;
 
@@ -108,11 +112,6 @@ section.avb {
 								height: 35px;
 							}
 						}
-					}
-
-					@include breakpoint(cousinbear) {
-						width: 100%;
-						margin-bottom: 5px;
 					}
 				}
 

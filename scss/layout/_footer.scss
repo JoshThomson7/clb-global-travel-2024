@@ -250,6 +250,12 @@ footer {
 				border-bottom: 1px rgba(255, 255, 255, 0.2) solid;
 			}
 
+			img{max-width: 200px;
+				@include breakpoint(papabear) {
+					margin: 20px 0;
+				}
+			}
+
 			figure {
 				max-width: 200px;
 				width: 100%;
@@ -332,7 +338,7 @@ footer {
 							opacity: 1;
 						}
 
-						i{color: var(--fl1-secondary);}
+						i{color: var(--fl1-gold);}
 					}
 				}
 			}
