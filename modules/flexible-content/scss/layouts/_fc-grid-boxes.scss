@@ -141,7 +141,7 @@
 				@include breakpoint(1000px) {
 					width: 50%;
 				}
-				@include breakpoint(700px0){width: 100%;}
+				@include breakpoint(700px){width: 100%;}
 			}
 			&.one__fourth {
 				width: math.percentage(math.div(1, 4));

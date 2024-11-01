@@ -45,7 +45,7 @@
 
 						<ul class="buttons">
 							<!-- <a href="mailto:info@clb-global-travel.com?subject=Become%20A%20Member" target="_blank" class="button outline">Become a Member <i class="fa fa-arrow-right"></i></a> -->
-							<a href="mailto:info@clb-global-travel.com?subject=Contact%20CLB%20Global%20Travel" target="_blank" class="button white">Contact Us <i class="fa fa-arrow-right"></i></a>
+							<a href="mailto:info@clb-global-travel.com?subject=Contact%20CLB%20Global%20Travel" target="_blank" class="button white">Enquire <i class="fa fa-arrow-right"></i></a>
 						</ul>
 
 						<!-- <ul class="actions"> 
